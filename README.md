@@ -3,11 +3,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=25D366&center=true&vCenter=true&width=550&lines=Full+Stack+Python+Developer;FastAPI+%2B+Django+%2B+React.js;Generative+AI+%26+ML+Enthusiast;CS+Undergrad+%40+Superior+University" alt="Typing SVG" />
 </p>
-
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Immad-khan12&color=25d366&style=flat-square&label=Profile+Views">
-    <img src="https://komarev.com/ghpvc/?username=Immad-khan12&color=25d366&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  </a>
+  <img src="https://img.shields.io/badge/Profile_Views-Active-25D366?style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 
 ---
