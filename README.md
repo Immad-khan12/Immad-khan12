@@ -3,18 +3,19 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=25D366&center=true&vCenter=true&width=550&lines=Full+Stack+Python+Developer;FastAPI+%2B+Django+%2B+React.js;Generative+AI+%26+ML+Enthusiast;CS+Undergrad+%40+Superior+University" alt="Typing SVG" />
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-Active-25D366?style=for-the-badge&logo=github" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.dev/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FImmad-khan12&count_bg=%2325D366&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **BS Computer Science** Student at **Superior University, Lahore** (6th Semester | CGPA 3.46/4.00).
-- 🚀 **Full Stack Python Developer** with hands-on experience building & deploying live applications using **React.js, FastAPI, Django, and MongoDB/MySQL**.
-- 💼 Interned across **Full-Stack, Machine Learning, Enterprise AI (SAP Joule @ Coca-Cola Icecek)**, and **Software QA/Testing**.
-- 🤖 Currently building **Jarvis** — An Agentic AI Assistant.
-- 📍 Based in Lahore, Pakistan.
+- 🎓 **BS Computer Science** Student at **Superior University, Lahore** (6th Semester | CGPA 3.46/4.00)[cite: 7, 8].
+- 🚀 **Full Stack Python Developer** with hands-on experience building & deploying live applications using **React.js, FastAPI, Django, and MongoDB/MySQL**[cite: 7].
+- 💼 Interned across **Full-Stack, Machine Learning, Enterprise AI (SAP Joule @ Coca-Cola Icecek)**, and **Software QA/Testing**[cite: 7].
+- 🤖 Currently building **Jarvis** — An Agentic AI Assistant[cite: 8].
+- 📍 Based in Lahore, Pakistan[cite: 7].
 
 ---
 
@@ -49,19 +50,19 @@
 
 ### 🌟 Featured Projects
 
-- ⚡ **[SyncSpace](https://github.com/Immad-khan12/syncspace)** — Real-Time Collaborative Document Editor powered by WebSockets & CRDTs. *(Live: [syncspace-ivory.vercel.app](https://syncspace-ivory.vercel.app))*
-- 🏢 **[TEYZIX CORE Portal](https://github.com/Immad-khan12/Teyzix-core-portal)** — Full-stack Internship Management Platform with JWT Auth & Swagger API Docs. *(Live: [teyzix-core-portal.netlify.app](https://teyzix-core-portal.netlify.app))*
-- 🤖 **[Jarvis Agentic AI Assistant](https://github.com/Immad-khan12/Jarvis-Agentic-Assistant)** — Multi-tier, voice & screen-reading capable AI Assistant (Under Active Development).
-- 🍔 **[Royal Feast](https://github.com/Immad-khan12/Royal-Feast)** — Restaurant Ordering System using React, Django REST Framework & MySQL.
-- 🚗 **[AutoDetect CV](https://github.com/Immad-khan12/Car-Detection-System)** — Computer Vision simulation for Car Detection pipeline with IoU & NMS metrics.
+- ⚡ **[SyncSpace](https://github.com/Immad-khan12/syncspace)** — Real-Time Collaborative Document Editor powered by WebSockets & CRDTs. *(Live: [syncspace-ivory.vercel.app](https://syncspace-ivory.vercel.app))*[cite: 8]
+- 🏢 **[TEYZIX CORE Portal](https://github.com/Immad-khan12/Teyzix-core-portal)** — Full-stack Internship Management Platform with JWT Auth & Swagger API Docs. *(Live: [teyzix-core-portal.netlify.app](https://teyzix-core-portal.netlify.app))*[cite: 8]
+- 🤖 **[Jarvis Agentic AI Assistant](https://github.com/Immad-khan12/Jarvis-Agentic-Assistant)** — Multi-tier, voice & screen-reading capable AI Assistant (Under Active Development)[cite: 8].
+- 🍔 **[Royal Feast](https://github.com/Immad-khan12/Royal-Feast)** — Restaurant Ordering System using React, Django REST Framework & MySQL[cite: 8].
+- 🚗 **[AutoDetect CV](https://github.com/Immad-khan12/Car-Detection-System)** — Computer Vision simulation for Car Detection pipeline with IoU & NMS metrics[cite: 8].
 
 ---
 
 ### 📜 Certifications
 
-- 🏅 **AI Fluency & Claude 101** — Anthropic (2026)
-- 🏅 **Digital Technology Internship (SAP Joule)** — Coca-Cola Icecek (2026)
-- 🏅 **Full Stack Python Developer (6 Months)** — PNY Trainings (2025)
+- 🏅 **AI Fluency & Claude 101** — Anthropic (2026)[cite: 8]
+- 🏅 **Digital Technology Internship (SAP Joule)** — Coca-Cola Icecek (2026)[cite: 7, 8]
+- 🏅 **Full Stack Python Developer (6 Months)** — PNY Trainings (2025)[cite: 8]
 
 ---
 
