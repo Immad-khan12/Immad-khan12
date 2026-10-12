@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://mojo-count.vercel.app/api/count?name=Immad-khan12&bg=25D366&color=FFFFFF&label=Profile%20Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Immad-khan12&color=25d366&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
